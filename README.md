@@ -1,3 +1,3 @@
 # Barn Project Template 
 
-Template projects for game development
+Template project for game development using Barn.
