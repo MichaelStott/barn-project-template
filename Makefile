@@ -46,9 +46,6 @@ build: ## Pull dependencies and build project
 
 dev: ## Run project in dev mode
 	cargo run
-
-example: ## Run project in dev mode
-	cargo run --example snow_scene
 	
 profile: ## Locally profile the project
 	cargo flamegraph --dev
